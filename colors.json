@@ -1,0 +1,356 @@
+{
+"success": true,
+"colors": [
+{
+"id": "1",
+"name": "Black",
+"color_code": "B",
+"hex_code": "1e1e1e",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "2",
+"name": "White",
+"color_code": "W",
+"hex_code": "e6e6e6",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "3",
+"name": "Red",
+"color_code": "R",
+"hex_code": "d10000",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "4",
+"name": "Cardinal",
+"color_code": "C",
+"hex_code": "9c0000",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "5",
+"name": "Maroon",
+"color_code": "M",
+"hex_code": "5c0000",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "6",
+"name": "Seminole",
+"color_code": "SE",
+"hex_code": "6b0c1e",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "7",
+"name": "Purple",
+"color_code": "P",
+"hex_code": "230773",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "8",
+"name": "Navy Blue",
+"color_code": "NB",
+"hex_code": "000c39",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "9",
+"name": "Royal Blue",
+"color_code": "RB",
+"hex_code": "002792",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "10",
+"name": "Columbia Blue",
+"color_code": "CB",
+"hex_code": "6896c2",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "11",
+"name": "Marlin Blue",
+"color_code": "MB",
+"hex_code": "20a495",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "12",
+"name": "Aqua",
+"color_code": "A",
+"hex_code": "56acde",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "13",
+"name": "Turquoise",
+"color_code": "T",
+"hex_code": "177378",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "14",
+"name": "Kelly Green",
+"color_code": "KG",
+"hex_code": "00782b",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "15",
+"name": "Forest Green",
+"color_code": "FG",
+"hex_code": "003614",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "16",
+"name": "Yellow",
+"color_code": "Y",
+"hex_code": "f7fb0f",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "17",
+"name": "Gold",
+"color_code": "G",
+"hex_code": "ffba00",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "18",
+"name": "Old Gold",
+"color_code": "OG",
+"hex_code": "b18500",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "19",
+"name": "Vegas Gold",
+"color_code": "VG",
+"hex_code": "b5a773",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "20",
+"name": "Cream",
+"color_code": "CR",
+"hex_code": "f8f2d8",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "21",
+"name": "Silver Gray",
+"color_code": "SG",
+"hex_code": "bdc4c7",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "22",
+"name": "Gray",
+"color_code": "GR",
+"hex_code": "949494",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "23",
+"name": "Charcoal Grey",
+"color_code": "CG",
+"hex_code": "424242",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "24",
+"name": "Brown",
+"color_code": "BR",
+"hex_code": "2b1500",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "25",
+"name": "Orange",
+"color_code": "O",
+"hex_code": "f54900",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "26",
+"name": "Texas Orange",
+"color_code": "TX",
+"hex_code": "b84d00",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "27",
+"name": "Tennessee Orange",
+"color_code": "TO",
+"hex_code": "ff8c00",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "28",
+"name": "Pink",
+"color_code": "PK",
+"hex_code": "ffc8e2",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "29",
+"name": "Neon Pink",
+"color_code": "NP",
+"hex_code": "ff4689",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "30",
+"name": "Lime Green",
+"color_code": "LG",
+"hex_code": "008345",
+"application_types": null,
+"sublimation_only": "0",
+"active": "1"
+},
+{
+"id": "35",
+"name": "Dark Purple",
+"color_code": "DP",
+"hex_code": "130047",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "36",
+"name": "Brick Red",
+"color_code": "BRR",
+"hex_code": "ad0000",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "37",
+"name": "Safety Green",
+"color_code": "S",
+"hex_code": "c9ff00",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "38",
+"name": "Carolina Blue",
+"color_code": "CA",
+"hex_code": "81bffa",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "39",
+"name": "Dark Royal Blue",
+"color_code": "DR",
+"hex_code": "001b64",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "40",
+"name": "Dark Navy Blue",
+"color_code": "DN",
+"hex_code": "00061a",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "41",
+"name": "Dark Maroon",
+"color_code": "DM",
+"hex_code": "930000",
+"application_types": null,
+"sublimation_only": "0",
+"active": "0"
+},
+{
+"id": "43",
+"name": "Optic Yellow",
+"color_code": "OP",
+"hex_code": "ccde00",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+},
+{
+"id": "44",
+"name": "Dark Green",
+"color_code": "DG",
+"hex_code": "00240d",
+"application_types": null,
+"sublimation_only": "1",
+"active": "1"
+}
+]
+}
